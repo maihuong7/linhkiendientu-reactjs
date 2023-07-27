@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "json2csv": "^6.0.0-alpha.2",
+    "moment": "^2.29.4",
+    "react-csv": "^2.2.2"
+  }
+}
